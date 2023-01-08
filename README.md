@@ -1,2 +1,37 @@
 # Electric-Vehicle-Website
 This website allows user to check for availability of electric vehicle in showroom and book a test ride.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electric Scooties</title>
+    <link rel="stylesheet" href="project1.css">
+</head>
+
+
+<body>
+    
+    <div class="banner">
+        <div class="navbar">
+          <img src="img/logo2.png" class="logo">
+             <ul>
+                <li><a href="#">Home </a></li>
+                <li><a href="#">About Us </a></li>
+                <li><a href="#">Contact Us </a></li>
+             </ul>
+        </div> 
+    </div>
+    <div class="content">
+        <h1>Best Electric Scooters Are Here</h1>
+        <p>Equipped with best and latest technology</p>
+        <div>
+            <button type="button"><span></span>BUY NOW</button>
+            <button type="button"><span></span>TAKE A TEST DRIVE</button>
+        </div>
+    </div>
+    
+</body>
+</html>
